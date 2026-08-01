@@ -147,9 +147,9 @@ A Telegram-based structured problem-solving platform that helps students build l
 
 GitHub: https://github.com/vamsi313
 
-LinkedIn: *(Add your LinkedIn URL)*
+LinkedIn: https://www.linkedin.com/in/vamsi-krishna-gajjela-173477365/
 
-Email: *(Add your Email)*
+Email: vamsiklu367@gmail.com
 
 ---
 
